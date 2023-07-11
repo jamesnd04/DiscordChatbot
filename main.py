@@ -77,7 +77,7 @@ class MyClient(discord.Client):
         await message.channel.send(bot_response)
 
 def main():
-    # DialoGPT-medium-joshua is my model name
+    
     client = MyClient('DialoGPT-small-ThorCB')
     client.run(os.environ['DISCORD_TOKEN'])
 
