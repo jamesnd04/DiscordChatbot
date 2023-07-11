@@ -1,1 +1,1 @@
-# This is the code for my Discord Chatbot, which uses language processing to make a chatbot that sounds like me!
+# This is the code for my Discord Chatbot, based on a dataset of MCU Thor's dialogue
